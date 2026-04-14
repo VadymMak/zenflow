@@ -70,7 +70,7 @@ export const CLASSES: ClassType[] = [
     description:
       "Špeciálne navrhnutá pre tehotné ženy. Bezpečné cvičenia na posilnenie panvového dna a prípravu na pôrod.",
     image:
-      "https://images.unsplash.com/photo-1535930749574-1399327ce78f?w=600&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=600&h=400&fit=crop",
   },
   {
     id: "meditation",
@@ -80,7 +80,7 @@ export const CLASSES: ClassType[] = [
     description:
       "Vedené meditačné sedenia. Mindfulness, dychové techniky a relaxácia. Znižuje úzkosť a zlepšuje sústredenie.",
     image:
-      "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=600&h=400&fit=crop",
   },
 ];
 
@@ -164,7 +164,7 @@ export const INSTRUCTORS: Instructor[] = [
     speciality: "Hatha & Prenatálna Yoga",
     bio: "Certifikovaná inštruktorka s 10-ročnou praxou. Vyštudovala jogu v Indii a špeciálne sa venuje začiatočníkom a tehotným ženám. Verí, že joga je pre každého.",
     image:
-      "https://images.unsplash.com/photo-1594381898411-846e7d193883?w=400&h=530&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400&h=530&fit=crop&crop=top",
   },
   {
     id: "marek",
@@ -172,7 +172,7 @@ export const INSTRUCTORS: Instructor[] = [
     speciality: "Vinyasa & Power Yoga",
     bio: "Bývalý profesionálny atléta, ktorý objavil silu jogy po zranení. Dnes učí dynamické štýly s dôrazom na správnu techniku a bezpečnosť.",
     image:
-      "https://images.unsplash.com/photo-1567013127542-490d483e18e3?w=400&h=530&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400&h=530&fit=crop&crop=top",
   },
   {
     id: "eva",
@@ -180,7 +180,7 @@ export const INSTRUCTORS: Instructor[] = [
     speciality: "Meditácia & Mindfulness",
     bio: "Psychologička a meditačná lektorka. Kombinuje vedecký prístup s tradičnými technikami. Pomáha klientom zvládať stres a nájsť vnútorný pokoj.",
     image:
-      "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=400&h=530&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=530&fit=crop&crop=top",
   },
   {
     id: "zuzana",
