@@ -45,7 +45,7 @@ export default function ReviewsSection() {
               <div className="review-stars">
                 {"★".repeat(review.rating)}
               </div>
-              <p className="review-text">"{review.text}"</p>
+              <p className="review-text">&ldquo;{review.text}&rdquo;</p>
               <div className="review-author">
                 <div className="review-avatar">
                   <Image
