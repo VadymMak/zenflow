@@ -70,7 +70,7 @@ export const CLASSES: ClassType[] = [
     description:
       "Špeciálne navrhnutá pre tehotné ženy. Bezpečné cvičenia na posilnenie panvového dna a prípravu na pôrod.",
     image:
-      "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=600&h=400&fit=crop",
+      "https://plus.unsplash.com/premium_photo-1683121460671-67f0c812e23f?w=600&h=400&fit=crop",
   },
   {
     id: "meditation",
@@ -172,7 +172,7 @@ export const INSTRUCTORS: Instructor[] = [
     speciality: "Vinyasa & Power Yoga",
     bio: "Bývalý profesionálny atléta, ktorý objavil silu jogy po zranení. Dnes učí dynamické štýly s dôrazom na správnu techniku a bezpečnosť.",
     image:
-      "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400&h=530&fit=crop&crop=top",
+      "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400&h=530&fit=crop&crop=top",
   },
   {
     id: "eva",
